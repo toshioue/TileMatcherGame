@@ -2,6 +2,6 @@
 
 ## To run Program:
 
-###### Download all Files
+###### Download TileGame.jar file
 
 **execute command: java -jar TileGame.jar**
